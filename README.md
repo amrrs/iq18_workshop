@@ -1,5 +1,5 @@
 # Infoquest '18 Workshop
-## GCT, CSE 
+##  GCT, CSE 
 ### Data Science in Python
 
 * Getting started with Python basics - 
