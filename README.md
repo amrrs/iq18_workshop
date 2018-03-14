@@ -1,5 +1,5 @@
-# Infoquest '18 Workshop
-##  GCT, CSE 
+# Infoquest '18 CSE Workshop
+## Government College of Technology, Coimbatore
 ### Data Science in Python
 
 * Getting started with Python basics - [Notebook](https://nbviewer.jupyter.org/github/amrrs/iq18_workshop/blob/master/basics/Getting%20started%20with%20Python%20basics.ipynb)
